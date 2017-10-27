@@ -23,8 +23,10 @@
 	<Item Name="Gains.ctl" Type="VI" URL="../Gains.ctl"/>
 	<Item Name="Inputs.ctl" Type="VI" URL="../Inputs.ctl"/>
 	<Item Name="ManualControl.ctl" Type="VI" URL="../ManualControl.ctl"/>
+	<Item Name="Mode.ctl" Type="VI" URL="../Mode.ctl"/>
 	<Item Name="Outputs.ctl" Type="VI" URL="../Outputs.ctl"/>
 	<Item Name="Parameters.ctl" Type="VI" URL="../Parameters.ctl"/>
+	<Item Name="PI_Settings.ctl" Type="VI" URL="../PI_Settings.ctl"/>
 	<Item Name="Range.ctl" Type="VI" URL="../Range.ctl"/>
 	<Item Name="Setpoint.ctl" Type="VI" URL="../Setpoint.ctl"/>
 	<Item Name="Signals.ctl" Type="VI" URL="../Signals.ctl"/>

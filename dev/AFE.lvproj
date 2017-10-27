@@ -36,46 +36,151 @@
 				<Item Name="niInstr Instruction Framework Interfaces v1 FPGA.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/FPGA/Interfaces/niInstr Instruction Framework Interfaces v1 FPGA.lvlib"/>
 				<Item Name="niInstr Instruction Framework v1 FPGA.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/FPGA/Typedefs/niInstr Instruction Framework v1 FPGA.lvlib"/>
 			</Item>
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/ABCtoAlphaBeta_3PhaseUnitaryMagnitude/FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude 0.vi"/>
+				<Item Name="FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/ABCtoAlphaBeta_3PhaseUnitaryMagnitude/FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude 1.vi"/>
+				<Item Name="FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/ABCtoAlphaBeta_3PhaseUnitaryMagnitude/FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude 2.vi"/>
+				<Item Name="FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/ABCtoAlphaBeta_3PhaseUnitaryMagnitude/FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude 3.vi"/>
+				<Item Name="FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/ABCtoAlphaBeta_3PhaseUnitaryMagnitude/FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude 4.vi"/>
+				<Item Name="FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/FlpLib ABCtoAlphaBeta_3PhaseUnitaryMagnitude.vi"/>
+				<Item Name="FlpLib Add Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Add Latency 0.vi"/>
+				<Item Name="FlpLib Add SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Add SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Add Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 0.vi"/>
+				<Item Name="FlpLib Add Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 1.vi"/>
+				<Item Name="FlpLib Add Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 2.vi"/>
+				<Item Name="FlpLib Add Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 3.vi"/>
+				<Item Name="FlpLib Add Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 4.vi"/>
+				<Item Name="FlpLib Add.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Add.vi"/>
+				<Item Name="FlpLib AlphaBetaToABC_UnitaryMagnitude 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/AlphaBetaToABC_UnitaryMagnitude/FlpLib AlphaBetaToABC_UnitaryMagnitude 0.vi"/>
+				<Item Name="FlpLib AlphaBetaToABC_UnitaryMagnitude 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/AlphaBetaToABC_UnitaryMagnitude/FlpLib AlphaBetaToABC_UnitaryMagnitude 1.vi"/>
+				<Item Name="FlpLib AlphaBetaToABC_UnitaryMagnitude 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/AlphaBetaToABC_UnitaryMagnitude/FlpLib AlphaBetaToABC_UnitaryMagnitude 2.vi"/>
+				<Item Name="FlpLib AlphaBetaToABC_UnitaryMagnitude 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/AlphaBetaToABC_UnitaryMagnitude/FlpLib AlphaBetaToABC_UnitaryMagnitude 3.vi"/>
+				<Item Name="FlpLib AlphaBetaToABC_UnitaryMagnitude 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/AlphaBetaToABC_UnitaryMagnitude/FlpLib AlphaBetaToABC_UnitaryMagnitude 4.vi"/>
+				<Item Name="FlpLib AlphaBetaToABC_UnitaryMagnitude.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/FlpLib AlphaBetaToABC_UnitaryMagnitude.vi"/>
+				<Item Name="FlpLib AlphaBetaToDQ_noSine 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/AlphaBetaToDQ_noSine/FlpLib AlphaBetaToDQ_noSine 0.vi"/>
+				<Item Name="FlpLib AlphaBetaToDQ_noSine 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/AlphaBetaToDQ_noSine/FlpLib AlphaBetaToDQ_noSine 1.vi"/>
+				<Item Name="FlpLib AlphaBetaToDQ_noSine 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/AlphaBetaToDQ_noSine/FlpLib AlphaBetaToDQ_noSine 2.vi"/>
+				<Item Name="FlpLib AlphaBetaToDQ_noSine 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/AlphaBetaToDQ_noSine/FlpLib AlphaBetaToDQ_noSine 3.vi"/>
+				<Item Name="FlpLib AlphaBetaToDQ_noSine 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/AlphaBetaToDQ_noSine/FlpLib AlphaBetaToDQ_noSine 4.vi"/>
+				<Item Name="FlpLib AlphaBetaToDQ_noSine.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/FlpLib AlphaBetaToDQ_noSine.vi"/>
+				<Item Name="FlpLib Compare Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Compare Latency 0.vi"/>
+				<Item Name="FlpLib Divide Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Divide Latency 5.vi"/>
+				<Item Name="FlpLib Divide Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Divide Outside SCTL.vi"/>
+				<Item Name="FlpLib Divide SCTL Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Divide SCTL Latency 5.vi"/>
+				<Item Name="FlpLib Divide Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 0.vi"/>
+				<Item Name="FlpLib Divide Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 1.vi"/>
+				<Item Name="FlpLib Divide Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 2.vi"/>
+				<Item Name="FlpLib Divide Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 3.vi"/>
+				<Item Name="FlpLib Divide Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 4.vi"/>
+				<Item Name="FlpLib Divide.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Divide.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 0.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 1.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 2.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 3.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 4.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/FlpLib DQtoAlphaBeta_noSine.vi"/>
+				<Item Name="FlpLib General Error Handle.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib General Error Handle.vi"/>
+				<Item Name="FlpLib Greater Than SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Greater Than SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Greater Than Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 0.vi"/>
+				<Item Name="FlpLib Greater Than Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 1.vi"/>
+				<Item Name="FlpLib Greater Than Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 2.vi"/>
+				<Item Name="FlpLib Greater Than Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 3.vi"/>
+				<Item Name="FlpLib Greater Than Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 4.vi"/>
+				<Item Name="FlpLib Greater Than.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Greater Than.vi"/>
+				<Item Name="FlpLib In Range and Coerce Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 0.vi"/>
+				<Item Name="FlpLib In Range and Coerce Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 1.vi"/>
+				<Item Name="FlpLib In Range and Coerce Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 2.vi"/>
+				<Item Name="FlpLib In Range and Coerce Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 3.vi"/>
+				<Item Name="FlpLib In Range and Coerce Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 4.vi"/>
+				<Item Name="FlpLib In Range and Coerce.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib In Range and Coerce.vi"/>
+				<Item Name="FlpLib Integrator 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 0.vi"/>
+				<Item Name="FlpLib Integrator 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 1.vi"/>
+				<Item Name="FlpLib Integrator 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 2.vi"/>
+				<Item Name="FlpLib Integrator 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 3.vi"/>
+				<Item Name="FlpLib Integrator 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 4.vi"/>
+				<Item Name="FlpLib Integrator.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/FlpLib Integrator.vi"/>
+				<Item Name="FlpLib Less Than SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Less Than SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Less Than Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 0.vi"/>
+				<Item Name="FlpLib Less Than Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 1.vi"/>
+				<Item Name="FlpLib Less Than Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 2.vi"/>
+				<Item Name="FlpLib Less Than Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 3.vi"/>
+				<Item Name="FlpLib Less Than Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 4.vi"/>
+				<Item Name="FlpLib Less Than.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Less Than.vi"/>
+				<Item Name="FlpLib Multiply Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Multiply Latency 0.vi"/>
+				<Item Name="FlpLib Multiply SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Multiply SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Multiply Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 0.vi"/>
+				<Item Name="FlpLib Multiply Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 1.vi"/>
+				<Item Name="FlpLib Multiply Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 2.vi"/>
+				<Item Name="FlpLib Multiply Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 3.vi"/>
+				<Item Name="FlpLib Multiply Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 4.vi"/>
+				<Item Name="FlpLib Multiply.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Multiply.vi"/>
+				<Item Name="FlpLib Negate Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Negate Outside SCTL.vi"/>
+				<Item Name="FlpLib Negate SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Negate SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Negate.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Negate.vi"/>
+				<Item Name="FlpLib Perturbance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 0.vi"/>
+				<Item Name="FlpLib Perturbance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 1.vi"/>
+				<Item Name="FlpLib Perturbance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 2.vi"/>
+				<Item Name="FlpLib Perturbance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 3.vi"/>
+				<Item Name="FlpLib Perturbance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 4.vi"/>
+				<Item Name="FlpLib Perturbance.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib Perturbance.vi"/>
+				<Item Name="FlpLib PI_Controller 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 0.vi"/>
+				<Item Name="FlpLib PI_Controller 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 1.vi"/>
+				<Item Name="FlpLib PI_Controller 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 2.vi"/>
+				<Item Name="FlpLib PI_Controller 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 3.vi"/>
+				<Item Name="FlpLib PI_Controller 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 4.vi"/>
+				<Item Name="FlpLib PI_Controller.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib PI_Controller.vi"/>
+				<Item Name="FlpLib Ramp 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 0.vi"/>
+				<Item Name="FlpLib Ramp 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 1.vi"/>
+				<Item Name="FlpLib Ramp 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 2.vi"/>
+				<Item Name="FlpLib Ramp 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 3.vi"/>
+				<Item Name="FlpLib Ramp 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 4.vi"/>
+				<Item Name="FlpLib Ramp.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib Ramp.vi"/>
+				<Item Name="FlpLib Sine &amp; Cosine Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Sine &amp; Cosine Outside SCTL.vi"/>
+				<Item Name="FlpLib Sine Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 0.vi"/>
+				<Item Name="FlpLib Sine Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 1.vi"/>
+				<Item Name="FlpLib Sine Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 2.vi"/>
+				<Item Name="FlpLib Sine Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 3.vi"/>
+				<Item Name="FlpLib Sine Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 4.vi"/>
+				<Item Name="FlpLib Sine.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Sine.vi"/>
+				<Item Name="FlpLib Split SGL Bits.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Split SGL Bits.vi"/>
+				<Item Name="FlpLib Square Root Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Square Root Latency 5.vi"/>
+				<Item Name="FlpLib Square Root Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Square Root Outside SCTL.vi"/>
+				<Item Name="FlpLib Square Root SCTL Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Square Root SCTL Latency 5.vi"/>
+				<Item Name="FlpLib Square Root Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 0.vi"/>
+				<Item Name="FlpLib Square Root Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 1.vi"/>
+				<Item Name="FlpLib Square Root Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 2.vi"/>
+				<Item Name="FlpLib Square Root Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 3.vi"/>
+				<Item Name="FlpLib Square Root Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 4.vi"/>
+				<Item Name="FlpLib Square Root.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Square Root.vi"/>
+				<Item Name="FlpLib Square SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Square SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Square Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 0.vi"/>
+				<Item Name="FlpLib Square Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 1.vi"/>
+				<Item Name="FlpLib Square Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 2.vi"/>
+				<Item Name="FlpLib Square Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 3.vi"/>
+				<Item Name="FlpLib Square Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 4.vi"/>
+				<Item Name="FlpLib Square.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Square.vi"/>
+				<Item Name="FlpLib Subtract Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Subtract Latency 0.vi"/>
+				<Item Name="FlpLib Subtract SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Subtract SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Subtract Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 0.vi"/>
+				<Item Name="FlpLib Subtract Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 1.vi"/>
+				<Item Name="FlpLib Subtract Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 2.vi"/>
+				<Item Name="FlpLib Subtract Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 3.vi"/>
+				<Item Name="FlpLib Subtract Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 4.vi"/>
+				<Item Name="FlpLib Subtract.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Subtract.vi"/>
+				<Item Name="FlpLib ThreePhasePLL 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/ThreePhasePLL/FlpLib ThreePhasePLL 0.vi"/>
+				<Item Name="FlpLib ThreePhasePLL 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/ThreePhasePLL/FlpLib ThreePhasePLL 1.vi"/>
+				<Item Name="FlpLib ThreePhasePLL 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/ThreePhasePLL/FlpLib ThreePhasePLL 2.vi"/>
+				<Item Name="FlpLib ThreePhasePLL 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/ThreePhasePLL/FlpLib ThreePhasePLL 3.vi"/>
+				<Item Name="FlpLib ThreePhasePLL 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/ThreePhasePLL/FlpLib ThreePhasePLL 4.vi"/>
+				<Item Name="FlpLib ThreePhasePLL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/FlpLib ThreePhasePLL.vi"/>
+				<Item Name="FlpLib U32 to SGL Cast.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib U32 to SGL Cast.vi"/>
+			</Item>
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="ABCtoAlphaBeta_3PhasePowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ABCtoAlphaBeta_3PhasePowInv.vi"/>
-				<Item Name="ABCtoDQ_noSine_3PhasePowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ABCtoDQ_noSine_3PhasePowInv.vi"/>
-				<Item Name="Adder.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder.lvclass"/>
-				<Item Name="Adder0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder0/Adder0.lvclass"/>
-				<Item Name="Adder1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder1/Adder1.lvclass"/>
-				<Item Name="Adder2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder2/Adder2.lvclass"/>
-				<Item Name="Adder3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder3/Adder3.lvclass"/>
-				<Item Name="Adder4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder4/Adder4.lvclass"/>
-				<Item Name="AlphaBetaToABC_PowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/AlphaBetaToABC_PowInv.vi"/>
-				<Item Name="AlphaBetaToDQ_noSine.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/AlphaBetaToDQ_noSine.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
-				<Item Name="DeltaToWye_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/DeltaToWye_src.vi"/>
-				<Item Name="DQtoABC_noSine_PowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/DQtoABC_noSine_PowInv.vi"/>
-				<Item Name="DQtoAlphaBeta_noSine.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/DQtoAlphaBeta_noSine.vi"/>
-				<Item Name="Multiplier.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiplier.lvclass"/>
-				<Item Name="Multiplier0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply0/Multiplier0.lvclass"/>
-				<Item Name="Multiplier1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply1/Multiplier1.lvclass"/>
-				<Item Name="Multiplier2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply2/Multiplier2.lvclass"/>
-				<Item Name="Multiplier3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply3/Multiplier3.lvclass"/>
-				<Item Name="Multiplier4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply4/Multiplier4.lvclass"/>
 				<Item Name="MultisimEMICtrl.dll" Type="Document" URL="/&lt;vilib&gt;/Simulation/EMI/Plugins/Multisim Design/MultisimEMICtrl.dll"/>
+				<Item Name="niFPGA SGL To U32 Cast.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/utilities/niFPGA SGL To U32 Cast.vi"/>
+				<Item Name="niFPGA U32 To SGL Cast.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/utilities/niFPGA U32 To SGL Cast.vi"/>
 				<Item Name="NILVSim.dll" Type="Document" URL="/&lt;vilib&gt;/Simulation/Implementation/Shared/NILVSim.dll"/>
-				<Item Name="PI_Controller.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Control/PI_Controller.vi"/>
-				<Item Name="SinCos.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos.lvclass"/>
-				<Item Name="SinCos0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos0/SinCos0.lvclass"/>
-				<Item Name="SinCos1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos1/SinCos1.lvclass"/>
-				<Item Name="SinCos2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos2/SinCos2.lvclass"/>
-				<Item Name="SinCos3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos3/SinCos3.lvclass"/>
-				<Item Name="SinCos4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos4/SinCos4.lvclass"/>
-				<Item Name="SinCos5.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos5/SinCos5.lvclass"/>
-				<Item Name="Subtractor.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor.lvclass"/>
-				<Item Name="Subtractor0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor0/Subtractor0.lvclass"/>
-				<Item Name="Subtractor1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor1/Subtractor1.lvclass"/>
-				<Item Name="Subtractor2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor2/Subtractor2.lvclass"/>
-				<Item Name="Subtractor3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor3/Subtractor3.lvclass"/>
-				<Item Name="Subtractor4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor4/Subtractor4.lvclass"/>
-				<Item Name="ThreePhasePLL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ThreePhasePLL.vi"/>
-				<Item Name="U32_to_SGL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Utility/U32_to_SGL.vi"/>
-				<Item Name="xsimk03D06ED52BF64DBBA65D3792F583FC56.dll" Type="Document" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ScaleAndLimit/Core/FPGA Type Cast/typecast_U32_to_SGLSimFiles/xsim.dir/typecast_U32_to_SGL/xsimk03D06ED52BF64DBBA65D3792F583FC56.dll"/>
 			</Item>
 			<Item Name="ActiveFrontEnd.lvlib" Type="Library" URL="../AFE/ActiveFrontEnd.lvlib"/>
 		</Item>
@@ -2626,69 +2731,134 @@ AddOutputFilter chunkFilter
 						<Item Name="vi.lib" Type="Folder">
 							<Item Name="sincosSGL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/sincosSGL.vi"/>
 							<Item Name="ABCtoDQ_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/ABCtoDQ_src.vi"/>
-							<Item Name="ABCtoDQ_2PhasePowerInvariant_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoDQ_2PhasePowerInvariant_src.vi"/>
-							<Item Name="ABCtoAlphaBeta_2PhasePowerInvariant_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoAlphaBeta_2PhasePowerInvariant_src.vi"/>
-							<Item Name="AlphaBetaToDQ_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/AlphaBetaToDQ_src.vi"/>
-							<Item Name="AlphaBetaToDQ_noSine_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/AlphaBetaToDQ_noSine_src.vi"/>
-							<Item Name="ABCtoDQ_3PhasePowerInvariant_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoDQ_3PhasePowerInvariant_src.vi"/>
-							<Item Name="ABCtoAlphaBeta_3PhasePowerInvariant_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoAlphaBeta_3PhasePowerInvariant_src.vi"/>
-							<Item Name="ABCtoDQ_noSine_2PhasePowerInvariant_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoDQ_noSine_2PhasePowerInvariant_src.vi"/>
 							<Item Name="ABCtoDQ_noSine_3PhasePowerInvariant_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoDQ_noSine_3PhasePowerInvariant_src.vi"/>
-							<Item Name="ABCtoDQ_2PhaseUnitaryMagnitude_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoDQ_2PhaseUnitaryMagnitude_src.vi"/>
-							<Item Name="ABCtoAlphaBeta_2PhaseUnitaryMagnitude_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoAlphaBeta_2PhaseUnitaryMagnitude_src.vi"/>
-							<Item Name="ABCtoDQ_3PhaseUnitaryMagnitude_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoDQ_3PhaseUnitaryMagnitude_src.vi"/>
-							<Item Name="ABCtoAlphaBeta_3PhaseUnitaryMagnitude_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoAlphaBeta_3PhaseUnitaryMagnitude_src.vi"/>
-							<Item Name="ABCtoDQ_noSine_2PhaseUnitaryMagnitude_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoDQ_noSine_2PhaseUnitaryMagnitude_src.vi"/>
-							<Item Name="ABCtoDQ_noSine_3PhaseUnitaryMagnitude_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/ABCtoDQ_noSine_3PhaseUnitaryMagnitude_src.vi"/>
 							<Item Name="DQtoABC_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/DQtoABC_src.vi"/>
 							<Item Name="DQtoABC_noSine_PowerInvariant_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/DQtoABC_noSine_PowerInvariant_src.vi"/>
-							<Item Name="DQtoAlphaBeta_noSine_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/DQtoAlphaBeta_noSine_src.vi"/>
-							<Item Name="AlphaBetaToABC_PowerInvariant_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/AlphaBetaToABC_PowerInvariant_src.vi"/>
-							<Item Name="DQtoABC_noSine_UnitaryMagnitude_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/DQtoABC_noSine_UnitaryMagnitude_src.vi"/>
-							<Item Name="DQtoABC_PowerInvariant_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/DQtoABC_PowerInvariant_src.vi"/>
-							<Item Name="DQtoABC_UnitaryMagnitude_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Transforms/_IPBuilder/AlphaBetaAndDQ_variants/DQtoABC_UnitaryMagnitude_src.vi"/>
-							<Item Name="Multiplier.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiplier.lvclass"/>
-							<Item Name="Adder.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder.lvclass"/>
-							<Item Name="Subtractor.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor.lvclass"/>
-							<Item Name="PI_Controller.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Control/PI_Controller.vi"/>
-							<Item Name="ABCtoDQ_noSine_3PhasePowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ABCtoDQ_noSine_3PhasePowInv.vi"/>
-							<Item Name="ABCtoAlphaBeta_3PhasePowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ABCtoAlphaBeta_3PhasePowInv.vi"/>
-							<Item Name="AlphaBetaToDQ_noSine.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/AlphaBetaToDQ_noSine.vi"/>
-							<Item Name="DQtoABC_noSine_PowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/DQtoABC_noSine_PowInv.vi"/>
-							<Item Name="DQtoAlphaBeta_noSine.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/DQtoAlphaBeta_noSine.vi"/>
-							<Item Name="AlphaBetaToABC_PowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/AlphaBetaToABC_PowInv.vi"/>
-							<Item Name="ThreePhasePLL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ThreePhasePLL.vi"/>
-							<Item Name="SinCos.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos.lvclass"/>
-							<Item Name="Multiplier0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply0/Multiplier0.lvclass"/>
-							<Item Name="Multiplier1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply1/Multiplier1.lvclass"/>
-							<Item Name="Multiplier2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply2/Multiplier2.lvclass"/>
-							<Item Name="Multiplier3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply3/Multiplier3.lvclass"/>
-							<Item Name="Multiplier4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply4/Multiplier4.lvclass"/>
-							<Item Name="Adder0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder0/Adder0.lvclass"/>
-							<Item Name="Adder1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder1/Adder1.lvclass"/>
-							<Item Name="Adder2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder2/Adder2.lvclass"/>
-							<Item Name="Adder3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder3/Adder3.lvclass"/>
-							<Item Name="Adder4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder4/Adder4.lvclass"/>
-							<Item Name="Subtractor0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor0/Subtractor0.lvclass"/>
-							<Item Name="Subtractor1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor1/Subtractor1.lvclass"/>
-							<Item Name="Subtractor2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor2/Subtractor2.lvclass"/>
-							<Item Name="Subtractor3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor3/Subtractor3.lvclass"/>
-							<Item Name="Subtractor4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor4/Subtractor4.lvclass"/>
-							<Item Name="SinCos0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos0/SinCos0.lvclass"/>
-							<Item Name="SinCos1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos1/SinCos1.lvclass"/>
-							<Item Name="SinCos2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos2/SinCos2.lvclass"/>
-							<Item Name="SinCos3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos3/SinCos3.lvclass"/>
-							<Item Name="SinCos4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos4/SinCos4.lvclass"/>
-							<Item Name="SinCos5.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos5/SinCos5.lvclass"/>
+							<Item Name="niFPGA SGL To U32 Cast.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/utilities/niFPGA SGL To U32 Cast.vi"/>
+							<Item Name="niFPGA U32 To SGL Cast.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/utilities/niFPGA U32 To SGL Cast.vi"/>
 							<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
-							<Item Name="U32_to_SGL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Utility/U32_to_SGL.vi"/>
-							<Item Name="xsimk03D06ED52BF64DBBA65D3792F583FC56.dll" Type="Document" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ScaleAndLimit/Core/FPGA Type Cast/typecast_U32_to_SGLSimFiles/xsim.dir/typecast_U32_to_SGL/xsimk03D06ED52BF64DBBA65D3792F583FC56.dll"/>
 						</Item>
 						<Item Name="instr.lib" Type="Folder">
 							<Item Name="niInstr Instruction Framework v1 FPGA.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/FPGA/Typedefs/niInstr Instruction Framework v1 FPGA.lvlib"/>
 							<Item Name="niInstr Instruction Framework Interfaces v1 FPGA.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/FPGA/Interfaces/niInstr Instruction Framework Interfaces v1 FPGA.lvlib"/>
 							<Item Name="niInstr Instruction Framework Helper Classes v1 FPGA.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/FPGA/Helper Classes/niInstr Instruction Framework Helper Classes v1 FPGA.lvlib"/>
 						</Item>
+						<Item Name="user.lib" Type="Folder">
+							<Item Name="FlpLib Divide.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Divide.vi"/>
+							<Item Name="FlpLib Divide Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 0.vi"/>
+							<Item Name="FlpLib Divide Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Divide Outside SCTL.vi"/>
+							<Item Name="FlpLib General Error Handle.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib General Error Handle.vi"/>
+							<Item Name="FlpLib Divide Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 1.vi"/>
+							<Item Name="FlpLib Divide Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 2.vi"/>
+							<Item Name="FlpLib Divide Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 3.vi"/>
+							<Item Name="FlpLib Divide Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 4.vi"/>
+							<Item Name="FlpLib Divide SCTL Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Divide SCTL Latency 5.vi"/>
+							<Item Name="FlpLib Divide Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Divide Latency 5.vi"/>
+							<Item Name="FlpLib Square.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Square.vi"/>
+							<Item Name="FlpLib Square Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 0.vi"/>
+							<Item Name="FlpLib Multiply Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Multiply Latency 0.vi"/>
+							<Item Name="FlpLib Square Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 1.vi"/>
+							<Item Name="FlpLib Square Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 2.vi"/>
+							<Item Name="FlpLib Square Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 3.vi"/>
+							<Item Name="FlpLib Square Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 4.vi"/>
+							<Item Name="FlpLib Square SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Square SCTL Latency 0.vi"/>
+							<Item Name="FlpLib Subtract.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Subtract.vi"/>
+							<Item Name="FlpLib Subtract Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 0.vi"/>
+							<Item Name="FlpLib Subtract Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Subtract Latency 0.vi"/>
+							<Item Name="FlpLib Subtract Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 1.vi"/>
+							<Item Name="FlpLib Subtract Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 2.vi"/>
+							<Item Name="FlpLib Subtract Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 3.vi"/>
+							<Item Name="FlpLib Subtract Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 4.vi"/>
+							<Item Name="FlpLib Subtract SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Subtract SCTL Latency 0.vi"/>
+							<Item Name="FlpLib Square Root.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Square Root.vi"/>
+							<Item Name="FlpLib Square Root Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 0.vi"/>
+							<Item Name="FlpLib Square Root Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Square Root Outside SCTL.vi"/>
+							<Item Name="FlpLib Square Root Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 1.vi"/>
+							<Item Name="FlpLib Square Root Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 2.vi"/>
+							<Item Name="FlpLib Square Root Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 3.vi"/>
+							<Item Name="FlpLib Square Root Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 4.vi"/>
+							<Item Name="FlpLib Square Root SCTL Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Square Root SCTL Latency 5.vi"/>
+							<Item Name="FlpLib Square Root Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Square Root Latency 5.vi"/>
+							<Item Name="FlpLib Multiply.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Multiply.vi"/>
+							<Item Name="FlpLib Multiply Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 0.vi"/>
+							<Item Name="FlpLib Multiply Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 1.vi"/>
+							<Item Name="FlpLib Multiply Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 2.vi"/>
+							<Item Name="FlpLib Multiply Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 3.vi"/>
+							<Item Name="FlpLib Multiply Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 4.vi"/>
+							<Item Name="FlpLib Multiply SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Multiply SCTL Latency 0.vi"/>
+							<Item Name="FlpLib Negate.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Negate.vi"/>
+							<Item Name="FlpLib Negate SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Negate SCTL Latency 0.vi"/>
+							<Item Name="FlpLib Split SGL Bits.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Split SGL Bits.vi"/>
+							<Item Name="FlpLib Negate Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Negate Outside SCTL.vi"/>
+							<Item Name="FlpLib PI_Controller.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib PI_Controller.vi"/>
+							<Item Name="FlpLib PI_Controller 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 0.vi"/>
+							<Item Name="FlpLib Add.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Add.vi"/>
+							<Item Name="FlpLib Add Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 0.vi"/>
+							<Item Name="FlpLib Add Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Add Latency 0.vi"/>
+							<Item Name="FlpLib Add Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 1.vi"/>
+							<Item Name="FlpLib Add Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 2.vi"/>
+							<Item Name="FlpLib Add Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 3.vi"/>
+							<Item Name="FlpLib Add Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 4.vi"/>
+							<Item Name="FlpLib Add SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Add SCTL Latency 0.vi"/>
+							<Item Name="FlpLib In Range and Coerce.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib In Range and Coerce.vi"/>
+							<Item Name="FlpLib In Range and Coerce Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 0.vi"/>
+							<Item Name="FlpLib In Range and Coerce Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 1.vi"/>
+							<Item Name="FlpLib In Range and Coerce Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 2.vi"/>
+							<Item Name="FlpLib In Range and Coerce Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 3.vi"/>
+							<Item Name="FlpLib In Range and Coerce Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 4.vi"/>
+							<Item Name="FlpLib PI_Controller 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 1.vi"/>
+							<Item Name="FlpLib PI_Controller 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 2.vi"/>
+							<Item Name="FlpLib PI_Controller 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 3.vi"/>
+							<Item Name="FlpLib PI_Controller 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 4.vi"/>
+							<Item Name="FlpLib Perturbance.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib Perturbance.vi"/>
+							<Item Name="FlpLib Perturbance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 0.vi"/>
+							<Item Name="FlpLib Integrator.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/FlpLib Integrator.vi"/>
+							<Item Name="FlpLib Integrator 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 0.vi"/>
+							<Item Name="FlpLib Integrator 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 1.vi"/>
+							<Item Name="FlpLib Integrator 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 2.vi"/>
+							<Item Name="FlpLib Integrator 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 3.vi"/>
+							<Item Name="FlpLib Integrator 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 4.vi"/>
+							<Item Name="FlpLib Greater Than.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Greater Than.vi"/>
+							<Item Name="FlpLib Greater Than Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 0.vi"/>
+							<Item Name="FlpLib Compare Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Compare Latency 0.vi"/>
+							<Item Name="FlpLib Greater Than Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 1.vi"/>
+							<Item Name="FlpLib Greater Than Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 2.vi"/>
+							<Item Name="FlpLib Greater Than Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 3.vi"/>
+							<Item Name="FlpLib Greater Than Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 4.vi"/>
+							<Item Name="FlpLib Greater Than SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Greater Than SCTL Latency 0.vi"/>
+							<Item Name="FlpLib Sine.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Sine.vi"/>
+							<Item Name="FlpLib Sine Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 0.vi"/>
+							<Item Name="FlpLib Sine &amp; Cosine Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Sine &amp; Cosine Outside SCTL.vi"/>
+							<Item Name="FlpLib Sine Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 1.vi"/>
+							<Item Name="FlpLib Sine Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 2.vi"/>
+							<Item Name="FlpLib Sine Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 3.vi"/>
+							<Item Name="FlpLib Sine Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 4.vi"/>
+							<Item Name="FlpLib Perturbance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 1.vi"/>
+							<Item Name="FlpLib Perturbance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 2.vi"/>
+							<Item Name="FlpLib Perturbance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 3.vi"/>
+							<Item Name="FlpLib Perturbance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 4.vi"/>
+							<Item Name="FlpLib Ramp.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib Ramp.vi"/>
+							<Item Name="FlpLib Ramp 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 0.vi"/>
+							<Item Name="FlpLib Less Than.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Less Than.vi"/>
+							<Item Name="FlpLib Less Than Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 0.vi"/>
+							<Item Name="FlpLib Less Than Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 1.vi"/>
+							<Item Name="FlpLib Less Than Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 2.vi"/>
+							<Item Name="FlpLib Less Than Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 3.vi"/>
+							<Item Name="FlpLib Less Than Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 4.vi"/>
+							<Item Name="FlpLib Less Than SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Less Than SCTL Latency 0.vi"/>
+							<Item Name="FlpLib Ramp 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 1.vi"/>
+							<Item Name="FlpLib Ramp 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 2.vi"/>
+							<Item Name="FlpLib Ramp 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 3.vi"/>
+							<Item Name="FlpLib Ramp 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 4.vi"/>
+							<Item Name="FlpLib DQtoAlphaBeta_noSine.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/FlpLib DQtoAlphaBeta_noSine.vi"/>
+							<Item Name="FlpLib DQtoAlphaBeta_noSine 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 0.vi"/>
+							<Item Name="FlpLib DQtoAlphaBeta_noSine 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 1.vi"/>
+							<Item Name="FlpLib DQtoAlphaBeta_noSine 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 2.vi"/>
+							<Item Name="FlpLib DQtoAlphaBeta_noSine 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 3.vi"/>
+							<Item Name="FlpLib DQtoAlphaBeta_noSine 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 4.vi"/>
+							<Item Name="FlpLib U32 to SGL Cast.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib U32 to SGL Cast.vi"/>
+						</Item>
+						<Item Name="ActiveFrontEnd.lvlib" Type="Library" URL="../AFE/ActiveFrontEnd.lvlib"/>
 					</Item>
 					<Item Name="Build Specifications" Type="Build">
 						<Item Name="AFE_SGL_gen" Type="{9C5E1E31-72F0-41E9-9B17-FFBE4626F549}">
@@ -2760,49 +2930,9 @@ AddOutputFilter chunkFilter
 						<Item Name="ScaleAndLimit.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ScaleAndLimit/Core/ScaleAndLimit.lvlib"/>
 						<Item Name="WaveformAddressSpace.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/WaveformAcq/FPGA/WaveformAddressSpace.lvclass"/>
 						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
-						<Item Name="LimitAI16_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ScaleAndLimit/Core/IPBuilder/LimitAI16_src.vi"/>
-						<Item Name="ScaleAI16_src.vi" Type="VI" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ScaleAndLimit/Core/IPBuilder/ScaleAI16_src.vi"/>
-						<Item Name="xsimk03D06ED52BF64DBBA65D3792F583FC56.dll" Type="Document" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ScaleAndLimit/Core/FPGA Type Cast/typecast_U32_to_SGLSimFiles/xsim.dir/typecast_U32_to_SGL/xsimk03D06ED52BF64DBBA65D3792F583FC56.dll"/>
-						<Item Name="Multiplier.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiplier.lvclass"/>
-						<Item Name="Divider.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Divider/Divider.lvclass"/>
-						<Item Name="Adder.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder.lvclass"/>
-						<Item Name="AlphaBetaToABC_PowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/AlphaBetaToABC_PowInv.vi"/>
-						<Item Name="DQtoAlphaBeta_noSine.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/DQtoAlphaBeta_noSine.vi"/>
-						<Item Name="AlphaBetaToDQ_noSine.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/AlphaBetaToDQ_noSine.vi"/>
-						<Item Name="ABCtoAlphaBeta_3PhasePowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ABCtoAlphaBeta_3PhasePowInv.vi"/>
-						<Item Name="ABCtoDQ_noSine_3PhasePowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ABCtoDQ_noSine_3PhasePowInv.vi"/>
-						<Item Name="DQtoABC_noSine_PowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/DQtoABC_noSine_PowInv.vi"/>
-						<Item Name="PI_Controller.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Control/PI_Controller.vi"/>
-						<Item Name="ThreePhasePLL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ThreePhasePLL.vi"/>
-						<Item Name="Multiplier0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply0/Multiplier0.lvclass"/>
-						<Item Name="Divider0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Divider/Divider0/Divider0.lvclass"/>
-						<Item Name="Adder0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder0/Adder0.lvclass"/>
-						<Item Name="Subtractor0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor0/Subtractor0.lvclass"/>
-						<Item Name="Subtractor.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor.lvclass"/>
-						<Item Name="SinCos.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos.lvclass"/>
-						<Item Name="SinCos0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos0/SinCos0.lvclass"/>
-						<Item Name="Multiplier1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply1/Multiplier1.lvclass"/>
-						<Item Name="Multiplier2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply2/Multiplier2.lvclass"/>
-						<Item Name="Multiplier3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply3/Multiplier3.lvclass"/>
-						<Item Name="Multiplier4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply4/Multiplier4.lvclass"/>
-						<Item Name="Adder1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder1/Adder1.lvclass"/>
-						<Item Name="Adder2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder2/Adder2.lvclass"/>
-						<Item Name="Adder3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder3/Adder3.lvclass"/>
-						<Item Name="Adder4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder4/Adder4.lvclass"/>
-						<Item Name="Subtractor1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor1/Subtractor1.lvclass"/>
-						<Item Name="Subtractor2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor2/Subtractor2.lvclass"/>
-						<Item Name="Subtractor3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor3/Subtractor3.lvclass"/>
-						<Item Name="Subtractor4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor4/Subtractor4.lvclass"/>
-						<Item Name="SinCos1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos1/SinCos1.lvclass"/>
-						<Item Name="SinCos2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos2/SinCos2.lvclass"/>
-						<Item Name="SinCos3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos3/SinCos3.lvclass"/>
-						<Item Name="SinCos4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos4/SinCos4.lvclass"/>
-						<Item Name="SinCos5.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos5/SinCos5.lvclass"/>
-						<Item Name="Divider1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Divider/Divider1/Divider1.lvclass"/>
-						<Item Name="Divider2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Divider/Divider2/Divider2.lvclass"/>
-						<Item Name="Divider3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Divider/Divider3/Divider3.lvclass"/>
-						<Item Name="Divider4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Divider/Divider4/Divider4.lvclass"/>
-						<Item Name="U32_to_SGL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Utility/U32_to_SGL.vi"/>
+						<Item Name="niFPGA U32 To SGL Cast.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/utilities/niFPGA U32 To SGL Cast.vi"/>
+						<Item Name="xsimk_BAEB0EFF4B15497ABBB37471944D9EC5.dll" Type="Document" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ScaleAndLimit/Core/AIScale/I16ToSGL_convert/xsim.dir/I16ToSGL_convert_BAEB0EFF4B15497ABBB37471944D9EC5/xsimk_BAEB0EFF4B15497ABBB37471944D9EC5.dll"/>
+						<Item Name="niFPGA SGL To U32 Cast.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/utilities/niFPGA SGL To U32 Cast.vi"/>
 					</Item>
 					<Item Name="instr.lib" Type="Folder">
 						<Item Name="niInstr Instruction Framework Top Level Bus v1 FPGA.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/FPGA/Top Level Bus/niInstr Instruction Framework Top Level Bus v1 FPGA.lvlib"/>
@@ -2827,6 +2957,128 @@ AddOutputFilter chunkFilter
 						<Item Name="xsimkB15BA4892E5F4023A51AA2E61B6FD011.dll" Type="Document" URL="/&lt;instrlib&gt;/_niInstr/Basic Elements/v1/FPGA/Private/GlitchlessMux_4InputSimFiles/xsim.dir/FourInputGlitchFreeMuxBasicElements/xsimkB15BA4892E5F4023A51AA2E61B6FD011.dll"/>
 						<Item Name="niInstr FIFO Register Bus v1 FPGA.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/_niInstr/FIFO Register Bus/v1/FPGA/niInstr FIFO Register Bus v1 FPGA.lvclass"/>
 						<Item Name="niInstr FIFO Register Bus v1 Shared.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/FIFO Register Bus/v1/Shared/niInstr FIFO Register Bus v1 Shared.lvlib"/>
+					</Item>
+					<Item Name="user.lib" Type="Folder">
+						<Item Name="FlpLib U32 to SGL Cast.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib U32 to SGL Cast.vi"/>
+						<Item Name="FlpLib Multiply.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Multiply.vi"/>
+						<Item Name="FlpLib Multiply Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 0.vi"/>
+						<Item Name="FlpLib Multiply Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Multiply Latency 0.vi"/>
+						<Item Name="FlpLib General Error Handle.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib General Error Handle.vi"/>
+						<Item Name="FlpLib Multiply Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 1.vi"/>
+						<Item Name="FlpLib Multiply Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 2.vi"/>
+						<Item Name="FlpLib Multiply Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 3.vi"/>
+						<Item Name="FlpLib Multiply Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 4.vi"/>
+						<Item Name="FlpLib Multiply SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Multiply SCTL Latency 0.vi"/>
+						<Item Name="FlpLib In Range and Coerce Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 4.vi"/>
+						<Item Name="FlpLib In Range and Coerce Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 3.vi"/>
+						<Item Name="FlpLib In Range and Coerce Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 2.vi"/>
+						<Item Name="FlpLib In Range and Coerce Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 1.vi"/>
+						<Item Name="FlpLib In Range and Coerce Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 0.vi"/>
+						<Item Name="FlpLib In Range and Coerce.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib In Range and Coerce.vi"/>
+						<Item Name="FlpLib Subtract Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Subtract Latency 0.vi"/>
+						<Item Name="FlpLib Subtract Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 4.vi"/>
+						<Item Name="FlpLib Subtract SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Subtract SCTL Latency 0.vi"/>
+						<Item Name="FlpLib Subtract Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 3.vi"/>
+						<Item Name="FlpLib Subtract Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 2.vi"/>
+						<Item Name="FlpLib Subtract Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 1.vi"/>
+						<Item Name="FlpLib Subtract Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 0.vi"/>
+						<Item Name="FlpLib Subtract.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Subtract.vi"/>
+						<Item Name="FlpLib Add Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Add Latency 0.vi"/>
+						<Item Name="FlpLib Add Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 4.vi"/>
+						<Item Name="FlpLib Add SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Add SCTL Latency 0.vi"/>
+						<Item Name="FlpLib Add Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 3.vi"/>
+						<Item Name="FlpLib Add Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 2.vi"/>
+						<Item Name="FlpLib Add Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 1.vi"/>
+						<Item Name="FlpLib Add Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 0.vi"/>
+						<Item Name="FlpLib Add.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Add.vi"/>
+						<Item Name="FlpLib PI_Controller 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 4.vi"/>
+						<Item Name="FlpLib PI_Controller 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 3.vi"/>
+						<Item Name="FlpLib PI_Controller 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 2.vi"/>
+						<Item Name="FlpLib PI_Controller 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 1.vi"/>
+						<Item Name="FlpLib PI_Controller 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 0.vi"/>
+						<Item Name="FlpLib PI_Controller.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib PI_Controller.vi"/>
+						<Item Name="FlpLib Square SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Square SCTL Latency 0.vi"/>
+						<Item Name="FlpLib Square Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 4.vi"/>
+						<Item Name="FlpLib Square Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 3.vi"/>
+						<Item Name="FlpLib Square Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 2.vi"/>
+						<Item Name="FlpLib Square Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 1.vi"/>
+						<Item Name="FlpLib Square Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 0.vi"/>
+						<Item Name="FlpLib Square.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Square.vi"/>
+						<Item Name="FlpLib Divide Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Divide Latency 5.vi"/>
+						<Item Name="FlpLib Divide SCTL Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Divide SCTL Latency 5.vi"/>
+						<Item Name="FlpLib Divide Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Divide Outside SCTL.vi"/>
+						<Item Name="FlpLib Divide Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 4.vi"/>
+						<Item Name="FlpLib Divide Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 3.vi"/>
+						<Item Name="FlpLib Divide Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 2.vi"/>
+						<Item Name="FlpLib Divide Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 1.vi"/>
+						<Item Name="FlpLib Divide Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 0.vi"/>
+						<Item Name="FlpLib Divide.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Divide.vi"/>
+						<Item Name="FlpLib Square Root Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Square Root Latency 5.vi"/>
+						<Item Name="FlpLib Square Root SCTL Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Square Root SCTL Latency 5.vi"/>
+						<Item Name="FlpLib Square Root Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Square Root Outside SCTL.vi"/>
+						<Item Name="FlpLib Square Root Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 4.vi"/>
+						<Item Name="FlpLib Square Root Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 3.vi"/>
+						<Item Name="FlpLib Square Root Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 2.vi"/>
+						<Item Name="FlpLib Square Root Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 1.vi"/>
+						<Item Name="FlpLib Square Root Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 0.vi"/>
+						<Item Name="FlpLib Square Root.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Square Root.vi"/>
+						<Item Name="FlpLib Negate Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Negate Outside SCTL.vi"/>
+						<Item Name="FlpLib Split SGL Bits.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Split SGL Bits.vi"/>
+						<Item Name="FlpLib Negate SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Negate SCTL Latency 0.vi"/>
+						<Item Name="FlpLib Negate.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Negate.vi"/>
+						<Item Name="FlpLib Compare Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Compare Latency 0.vi"/>
+						<Item Name="FlpLib Less Than Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 4.vi"/>
+						<Item Name="FlpLib Less Than SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Less Than SCTL Latency 0.vi"/>
+						<Item Name="FlpLib Less Than Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 3.vi"/>
+						<Item Name="FlpLib Less Than Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 2.vi"/>
+						<Item Name="FlpLib Less Than Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 1.vi"/>
+						<Item Name="FlpLib Less Than Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 0.vi"/>
+						<Item Name="FlpLib Less Than.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Less Than.vi"/>
+						<Item Name="FlpLib Greater Than Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 4.vi"/>
+						<Item Name="FlpLib Greater Than SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Greater Than SCTL Latency 0.vi"/>
+						<Item Name="FlpLib Greater Than Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 3.vi"/>
+						<Item Name="FlpLib Greater Than Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 2.vi"/>
+						<Item Name="FlpLib Greater Than Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 1.vi"/>
+						<Item Name="FlpLib Greater Than Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 0.vi"/>
+						<Item Name="FlpLib Greater Than.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Greater Than.vi"/>
+						<Item Name="FlpLib Ramp 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 4.vi"/>
+						<Item Name="FlpLib Ramp 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 3.vi"/>
+						<Item Name="FlpLib Ramp 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 2.vi"/>
+						<Item Name="FlpLib Ramp 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 1.vi"/>
+						<Item Name="FlpLib Ramp 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 0.vi"/>
+						<Item Name="FlpLib Ramp.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib Ramp.vi"/>
+						<Item Name="FlpLib DQtoAlphaBeta_noSine 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 4.vi"/>
+						<Item Name="FlpLib DQtoAlphaBeta_noSine 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 3.vi"/>
+						<Item Name="FlpLib DQtoAlphaBeta_noSine 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 2.vi"/>
+						<Item Name="FlpLib DQtoAlphaBeta_noSine 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 1.vi"/>
+						<Item Name="FlpLib DQtoAlphaBeta_noSine 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 0.vi"/>
+						<Item Name="FlpLib DQtoAlphaBeta_noSine.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/FlpLib DQtoAlphaBeta_noSine.vi"/>
+						<Item Name="FlpLib Sine &amp; Cosine Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Sine &amp; Cosine Outside SCTL.vi"/>
+						<Item Name="FlpLib Sine Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 4.vi"/>
+						<Item Name="FlpLib Sine Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 3.vi"/>
+						<Item Name="FlpLib Sine Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 2.vi"/>
+						<Item Name="FlpLib Sine Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 1.vi"/>
+						<Item Name="FlpLib Sine Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 0.vi"/>
+						<Item Name="FlpLib Sine.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Sine.vi"/>
+						<Item Name="FlpLib Integrator 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 4.vi"/>
+						<Item Name="FlpLib Integrator 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 3.vi"/>
+						<Item Name="FlpLib Integrator 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 2.vi"/>
+						<Item Name="FlpLib Integrator 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 1.vi"/>
+						<Item Name="FlpLib Integrator 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 0.vi"/>
+						<Item Name="FlpLib Integrator.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/FlpLib Integrator.vi"/>
+						<Item Name="FlpLib Perturbance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 4.vi"/>
+						<Item Name="FlpLib Perturbance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 3.vi"/>
+						<Item Name="FlpLib Perturbance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 2.vi"/>
+						<Item Name="FlpLib Perturbance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 1.vi"/>
+						<Item Name="FlpLib Perturbance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 0.vi"/>
+						<Item Name="FlpLib Perturbance.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib Perturbance.vi"/>
+						<Item Name="ON_OFF.ctl" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/SpaceVectorPWM/ON_OFF.ctl"/>
+						<Item Name="FlpLib SpaceVectorPWM 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/SpaceVectorPWM/FlpLib SpaceVectorPWM 4.vi"/>
+						<Item Name="FlpLib SpaceVectorPWM 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/SpaceVectorPWM/FlpLib SpaceVectorPWM 3.vi"/>
+						<Item Name="FlpLib SpaceVectorPWM 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/SpaceVectorPWM/FlpLib SpaceVectorPWM 2.vi"/>
+						<Item Name="FlpLib SpaceVectorPWM 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/SpaceVectorPWM/FlpLib SpaceVectorPWM 1.vi"/>
+						<Item Name="FlpLib SpaceVectorPWM 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/SpaceVectorPWM/FlpLib SpaceVectorPWM 0.vi"/>
+						<Item Name="FlpLib SpaceVectorPWM.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/FlpLib SpaceVectorPWM.vi"/>
 					</Item>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
@@ -3037,41 +3289,6 @@ AddOutputFilter chunkFilter
 				<Item Name="SVPWMInterface.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/SVPWM/SVPWMInterface/SVPWMInterface.lvlib"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
-				<Item Name="U32_to_SGL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Utility/U32_to_SGL.vi"/>
-				<Item Name="xsimk03D06ED52BF64DBBA65D3792F583FC56.dll" Type="Document" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/ScaleAndLimit/Core/FPGA Type Cast/typecast_U32_to_SGLSimFiles/xsim.dir/typecast_U32_to_SGL/xsimk03D06ED52BF64DBBA65D3792F583FC56.dll"/>
-				<Item Name="Multiplier.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiplier.lvclass"/>
-				<Item Name="Multiplier0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply0/Multiplier0.lvclass"/>
-				<Item Name="Multiplier1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply1/Multiplier1.lvclass"/>
-				<Item Name="Multiplier2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply2/Multiplier2.lvclass"/>
-				<Item Name="Multiplier3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply3/Multiplier3.lvclass"/>
-				<Item Name="Multiplier4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Multiplier/Multiply4/Multiplier4.lvclass"/>
-				<Item Name="Adder.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder.lvclass"/>
-				<Item Name="Adder0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder0/Adder0.lvclass"/>
-				<Item Name="Adder1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder1/Adder1.lvclass"/>
-				<Item Name="Adder2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder2/Adder2.lvclass"/>
-				<Item Name="Adder3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder3/Adder3.lvclass"/>
-				<Item Name="Adder4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Adder/Adder4/Adder4.lvclass"/>
-				<Item Name="Subtractor.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor.lvclass"/>
-				<Item Name="Subtractor0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor0/Subtractor0.lvclass"/>
-				<Item Name="Subtractor1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor1/Subtractor1.lvclass"/>
-				<Item Name="Subtractor2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor2/Subtractor2.lvclass"/>
-				<Item Name="Subtractor3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor3/Subtractor3.lvclass"/>
-				<Item Name="Subtractor4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/Subtractor/Subtractor4/Subtractor4.lvclass"/>
-				<Item Name="PI_Controller.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/control/PI_Controller.vi"/>
-				<Item Name="SinCos.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos.lvclass"/>
-				<Item Name="SinCos0.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos0/SinCos0.lvclass"/>
-				<Item Name="SinCos1.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos1/SinCos1.lvclass"/>
-				<Item Name="SinCos2.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos2/SinCos2.lvclass"/>
-				<Item Name="SinCos3.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos3/SinCos3.lvclass"/>
-				<Item Name="SinCos4.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos4/SinCos4.lvclass"/>
-				<Item Name="SinCos5.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/SinCos/SinCos5/SinCos5.lvclass"/>
-				<Item Name="ABCtoDQ_noSine_3PhasePowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ABCtoDQ_noSine_3PhasePowInv.vi"/>
-				<Item Name="ABCtoAlphaBeta_3PhasePowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ABCtoAlphaBeta_3PhasePowInv.vi"/>
-				<Item Name="AlphaBetaToDQ_noSine.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/AlphaBetaToDQ_noSine.vi"/>
-				<Item Name="ThreePhasePLL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/ThreePhasePLL.vi"/>
-				<Item Name="DQtoABC_noSine_PowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/DQtoABC_noSine_PowInv.vi"/>
-				<Item Name="DQtoAlphaBeta_noSine.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/DQtoAlphaBeta_noSine.vi"/>
-				<Item Name="AlphaBetaToABC_PowInv.vi" Type="VI" URL="/&lt;vilib&gt;/NI/NonreentrantSinglePoint/PowerElectronics/AlphaBetaToABC_PowInv.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
@@ -3102,6 +3319,8 @@ AddOutputFilter chunkFilter
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
+				<Item Name="niFPGA SGL To U32 Cast.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/utilities/niFPGA SGL To U32 Cast.vi"/>
+				<Item Name="niFPGA U32 To SGL Cast.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/Analysis/utilities/niFPGA U32 To SGL Cast.vi"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niInstr Instruction Target v1 Host.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/Host/Instruction Target/niInstr Instruction Target v1 Host.lvclass"/>
@@ -3111,6 +3330,121 @@ AddOutputFilter chunkFilter
 				<Item Name="niInstr Instruction Framework Interfaces v1 FPGA.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/FPGA/Interfaces/niInstr Instruction Framework Interfaces v1 FPGA.lvlib"/>
 				<Item Name="niInstr Instruction Framework v1 FPGA.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/FPGA/Typedefs/niInstr Instruction Framework v1 FPGA.lvlib"/>
 				<Item Name="niInstr Instruction Framework Helper Classes v1 FPGA.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/FPGA/Helper Classes/niInstr Instruction Framework Helper Classes v1 FPGA.lvlib"/>
+			</Item>
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="FlpLib Divide.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Divide.vi"/>
+				<Item Name="FlpLib Divide Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 0.vi"/>
+				<Item Name="FlpLib Divide Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Divide Outside SCTL.vi"/>
+				<Item Name="FlpLib General Error Handle.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib General Error Handle.vi"/>
+				<Item Name="FlpLib Divide Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 1.vi"/>
+				<Item Name="FlpLib Divide Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 2.vi"/>
+				<Item Name="FlpLib Divide Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 3.vi"/>
+				<Item Name="FlpLib Divide Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Divide Shared Instance 4.vi"/>
+				<Item Name="FlpLib Divide SCTL Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Divide SCTL Latency 5.vi"/>
+				<Item Name="FlpLib Divide Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Divide Latency 5.vi"/>
+				<Item Name="FlpLib Square.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Square.vi"/>
+				<Item Name="FlpLib Square Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 0.vi"/>
+				<Item Name="FlpLib Multiply Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Multiply Latency 0.vi"/>
+				<Item Name="FlpLib Square Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 1.vi"/>
+				<Item Name="FlpLib Square Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 2.vi"/>
+				<Item Name="FlpLib Square Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 3.vi"/>
+				<Item Name="FlpLib Square Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Shared Instance 4.vi"/>
+				<Item Name="FlpLib Square SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Square SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Subtract.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Subtract.vi"/>
+				<Item Name="FlpLib Subtract Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 0.vi"/>
+				<Item Name="FlpLib Subtract Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Subtract Latency 0.vi"/>
+				<Item Name="FlpLib Subtract Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 1.vi"/>
+				<Item Name="FlpLib Subtract Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 2.vi"/>
+				<Item Name="FlpLib Subtract Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 3.vi"/>
+				<Item Name="FlpLib Subtract Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Subtract Shared Instance 4.vi"/>
+				<Item Name="FlpLib Subtract SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Subtract SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Square Root.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Square Root.vi"/>
+				<Item Name="FlpLib Square Root Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 0.vi"/>
+				<Item Name="FlpLib Square Root Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Square Root Outside SCTL.vi"/>
+				<Item Name="FlpLib Square Root Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 1.vi"/>
+				<Item Name="FlpLib Square Root Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 2.vi"/>
+				<Item Name="FlpLib Square Root Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 3.vi"/>
+				<Item Name="FlpLib Square Root Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Square Root Shared Instance 4.vi"/>
+				<Item Name="FlpLib Square Root SCTL Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Square Root SCTL Latency 5.vi"/>
+				<Item Name="FlpLib Square Root Latency 5.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Square Root Latency 5.vi"/>
+				<Item Name="FlpLib Multiply.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Multiply.vi"/>
+				<Item Name="FlpLib Multiply Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 0.vi"/>
+				<Item Name="FlpLib Multiply Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 1.vi"/>
+				<Item Name="FlpLib Multiply Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 2.vi"/>
+				<Item Name="FlpLib Multiply Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 3.vi"/>
+				<Item Name="FlpLib Multiply Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Multiply Shared Instance 4.vi"/>
+				<Item Name="FlpLib Multiply SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Multiply SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Negate.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Negate.vi"/>
+				<Item Name="FlpLib Negate SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Negate SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Split SGL Bits.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Split SGL Bits.vi"/>
+				<Item Name="FlpLib Negate Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Negate Outside SCTL.vi"/>
+				<Item Name="FlpLib PI_Controller.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib PI_Controller.vi"/>
+				<Item Name="FlpLib PI_Controller 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 0.vi"/>
+				<Item Name="FlpLib Add.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Add.vi"/>
+				<Item Name="FlpLib Add Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 0.vi"/>
+				<Item Name="FlpLib Add Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Add Latency 0.vi"/>
+				<Item Name="FlpLib Add Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 1.vi"/>
+				<Item Name="FlpLib Add Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 2.vi"/>
+				<Item Name="FlpLib Add Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 3.vi"/>
+				<Item Name="FlpLib Add Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Add Shared Instance 4.vi"/>
+				<Item Name="FlpLib Add SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Add SCTL Latency 0.vi"/>
+				<Item Name="FlpLib In Range and Coerce.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib In Range and Coerce.vi"/>
+				<Item Name="FlpLib In Range and Coerce Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 0.vi"/>
+				<Item Name="FlpLib In Range and Coerce Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 1.vi"/>
+				<Item Name="FlpLib In Range and Coerce Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 2.vi"/>
+				<Item Name="FlpLib In Range and Coerce Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 3.vi"/>
+				<Item Name="FlpLib In Range and Coerce Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib In Range and Coerce Shared Instance 4.vi"/>
+				<Item Name="FlpLib PI_Controller 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 1.vi"/>
+				<Item Name="FlpLib PI_Controller 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 2.vi"/>
+				<Item Name="FlpLib PI_Controller 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 3.vi"/>
+				<Item Name="FlpLib PI_Controller 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/PI_Controller/FlpLib PI_Controller 4.vi"/>
+				<Item Name="FlpLib Perturbance.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib Perturbance.vi"/>
+				<Item Name="FlpLib Perturbance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 0.vi"/>
+				<Item Name="FlpLib Integrator.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/FlpLib Integrator.vi"/>
+				<Item Name="FlpLib Integrator 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 0.vi"/>
+				<Item Name="FlpLib Integrator 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 1.vi"/>
+				<Item Name="FlpLib Integrator 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 2.vi"/>
+				<Item Name="FlpLib Integrator 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 3.vi"/>
+				<Item Name="FlpLib Integrator 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Calculus/Integrator/FlpLib Integrator 4.vi"/>
+				<Item Name="FlpLib Greater Than.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Greater Than.vi"/>
+				<Item Name="FlpLib Greater Than Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 0.vi"/>
+				<Item Name="FlpLib Compare Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Compare Latency 0.vi"/>
+				<Item Name="FlpLib Greater Than Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 1.vi"/>
+				<Item Name="FlpLib Greater Than Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 2.vi"/>
+				<Item Name="FlpLib Greater Than Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 3.vi"/>
+				<Item Name="FlpLib Greater Than Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Greater Than Shared Instance 4.vi"/>
+				<Item Name="FlpLib Greater Than SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Greater Than SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Sine.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Sine.vi"/>
+				<Item Name="FlpLib Sine Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 0.vi"/>
+				<Item Name="FlpLib Sine &amp; Cosine Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Sine &amp; Cosine Outside SCTL.vi"/>
+				<Item Name="FlpLib Sine Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 1.vi"/>
+				<Item Name="FlpLib Sine Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 2.vi"/>
+				<Item Name="FlpLib Sine Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 3.vi"/>
+				<Item Name="FlpLib Sine Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 4.vi"/>
+				<Item Name="FlpLib Perturbance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 1.vi"/>
+				<Item Name="FlpLib Perturbance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 2.vi"/>
+				<Item Name="FlpLib Perturbance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 3.vi"/>
+				<Item Name="FlpLib Perturbance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Perturbance/FlpLib Perturbance 4.vi"/>
+				<Item Name="FlpLib Ramp.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib Ramp.vi"/>
+				<Item Name="FlpLib Ramp 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 0.vi"/>
+				<Item Name="FlpLib Less Than.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib Less Than.vi"/>
+				<Item Name="FlpLib Less Than Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 0.vi"/>
+				<Item Name="FlpLib Less Than Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 1.vi"/>
+				<Item Name="FlpLib Less Than Shared Instance 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 2.vi"/>
+				<Item Name="FlpLib Less Than Shared Instance 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 3.vi"/>
+				<Item Name="FlpLib Less Than Shared Instance 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Less Than Shared Instance 4.vi"/>
+				<Item Name="FlpLib Less Than SCTL Latency 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/insideSCTL/FlpLib Less Than SCTL Latency 0.vi"/>
+				<Item Name="FlpLib Ramp 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 1.vi"/>
+				<Item Name="FlpLib Ramp 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 2.vi"/>
+				<Item Name="FlpLib Ramp 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 3.vi"/>
+				<Item Name="FlpLib Ramp 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 4.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/FlpLib DQtoAlphaBeta_noSine.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 0.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 1.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine 2.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 2.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 3.vi"/>
+				<Item Name="FlpLib DQtoAlphaBeta_noSine 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 4.vi"/>
+				<Item Name="FlpLib U32 to SGL Cast.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib U32 to SGL Cast.vi"/>
 			</Item>
 			<Item Name="niifwu.dll" Type="Document" URL="/&lt;resource&gt;/niifwu.dll"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
