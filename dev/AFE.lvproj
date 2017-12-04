@@ -136,6 +136,7 @@
 				<Item Name="FlpLib Ramp 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 3.vi"/>
 				<Item Name="FlpLib Ramp 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/Ramp/FlpLib Ramp 4.vi"/>
 				<Item Name="FlpLib Ramp.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/Control/FlpLib Ramp.vi"/>
+				<Item Name="FlpLib SGL to U32 Cast.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib SGL to U32 Cast.vi"/>
 				<Item Name="FlpLib Sine &amp; Cosine Outside SCTL.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/core/FlpLib Sine &amp; Cosine Outside SCTL.vi"/>
 				<Item Name="FlpLib Sine Shared Instance 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 0.vi"/>
 				<Item Name="FlpLib Sine Shared Instance 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/outsideSCTL/FlpLib Sine Shared Instance 1.vi"/>
@@ -2745,6 +2746,7 @@ AddOutputFilter chunkFilter
 						<Item Name="FlpLib SpaceVectorPWM 1.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/SpaceVectorPWM/FlpLib SpaceVectorPWM 1.vi"/>
 						<Item Name="FlpLib SpaceVectorPWM 0.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/SpaceVectorPWM/FlpLib SpaceVectorPWM 0.vi"/>
 						<Item Name="FlpLib SpaceVectorPWM.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/FlpLib SpaceVectorPWM.vi"/>
+						<Item Name="FlpLib SGL to U32 Cast.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib SGL to U32 Cast.vi"/>
 					</Item>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
@@ -3111,6 +3113,7 @@ AddOutputFilter chunkFilter
 				<Item Name="FlpLib DQtoAlphaBeta_noSine 3.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 3.vi"/>
 				<Item Name="FlpLib DQtoAlphaBeta_noSine 4.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/addons/PowerElectronics/DQtoAlphaBeta_noSine/FlpLib DQtoAlphaBeta_noSine 4.vi"/>
 				<Item Name="FlpLib U32 to SGL Cast.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib U32 to SGL Cast.vi"/>
+				<Item Name="FlpLib SGL to U32 Cast.vi" Type="VI" URL="/&lt;userlib&gt;/_NI FLP Library/FPGA/top/FlpLib SGL to U32 Cast.vi"/>
 			</Item>
 			<Item Name="niifwu.dll" Type="Document" URL="/&lt;resource&gt;/niifwu.dll"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">

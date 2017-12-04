@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-11-06 15:45:46" Modified_Date="2017-11-15 15:13:58" Creator="Brian Kindinger" Comments="" ID="ced2f2eb3c94c7bdff79d54a9a813a69">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-11-06 15:45:46" Modified_Date="2017-12-04 14:10:54" Creator="Brian Kindinger" Comments="" ID="6c8c0b9c92f97a8afe59d91543643e40">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_PEC_Active_Front_End</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -36,7 +36,8 @@
       <Packager>National Instruments</Packager>
       <URL>https://github.com/LabVIEW-Power-Electronic-Control/ActiveFrontEnd</URL>
       <Release_Notes>[BLK 11/6] Initial build
-[BLK 11/15]  Added perturbance feature</Release_Notes>
+[BLK 11/15]  Added perturbance feature
+[BLK 12/4] Added feedback API</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
