@@ -15,10 +15,13 @@
 	<Item Name="Ready.vi" Type="VI" URL="../Ready.vi"/>
 	<Item Name="resetControl.vi" Type="VI" URL="../resetControl.vi"/>
 	<Item Name="set_PI_Settings.vi" Type="VI" URL="../set_PI_Settings.vi"/>
+	<Item Name="setIDtoVD.vi" Type="VI" URL="../setIDtoVD.vi"/>
+	<Item Name="setIQtoVQ.vi" Type="VI" URL="../setIQtoVQ.vi"/>
 	<Item Name="setManual.vi" Type="VI" URL="../setManual.vi"/>
 	<Item Name="setParameters.vi" Type="VI" URL="../setParameters.vi"/>
 	<Item Name="Setpoints.ctl" Type="VI" URL="../Setpoints.ctl"/>
 	<Item Name="setRange.vi" Type="VI" URL="../setRange.vi"/>
 	<Item Name="setSetpoints.vi" Type="VI" URL="../setSetpoints.vi"/>
 	<Item Name="setState.vi" Type="VI" URL="../setState.vi"/>
+	<Item Name="setVDCLinkToPower.vi" Type="VI" URL="../setVDCLinkToPower.vi"/>
 </Library>
