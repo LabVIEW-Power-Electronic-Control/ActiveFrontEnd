@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-11-06 15:45:46" Modified_Date="2018-01-10 15:03:41" Creator="Brian Kindinger" Comments="" ID="d9ffb58c11269edf3e5a5ac6322d624f">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-11-06 15:45:46" Modified_Date="2018-01-22 10:17:16" Creator="Brian Kindinger" Comments="" ID="744b24386f21909b77095ab6317db2b6">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_PEC_Active_Front_End</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
